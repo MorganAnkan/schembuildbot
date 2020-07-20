@@ -1,0 +1,9 @@
+{
+    "version": "1.15.2",
+    "bot": {
+        "host": "localhost",
+        "port": 25565,
+        "username": "schem_build"
+    },
+    "perms": ["someone420"]
+}

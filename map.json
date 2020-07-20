@@ -1,0 +1,72 @@
+{
+  "normal": [
+    "observer",
+    "bell",
+
+    "purpur_stairs",
+    "cobblestone_stairs",
+    "brick_stairs",
+    "stone_brick_stairs",
+    "nether_brick_stairs",
+    "sandstone_stairs",
+
+		"oak_stairs",
+    "spruce_stairs",
+    "birch_stairs",
+    "jungle_stairs",
+    "quartz_stairs",
+    "acacia_stairs",
+    "dark_oak_stairs",
+
+    "prismarine_stairs",
+    "prismarine_brick_stairs",
+    "dark_prismarine_stairs",
+    "red_sandstone_stairs",
+    "smooth_red_sandstone_stairs",
+    "mossy_cobblestone_stairs",
+    "polished_granite_stairs",
+    "polished_andesite_stairs",
+    "polished_diorite_stairs",
+    "end_stone_brick_stairs",
+    "stone_stairs",
+    "smooth_sandstone_stairs",
+    "smooth_quartz_stairs",
+    "granite_stairs",
+    "andesite_stairs",
+    "diorite_stairs",
+    "red_nether_brick_stairs",
+		
+		"white_bed",
+		"orange_bed",
+		"magenta_bed",
+		"light_blue_bed",
+		"yellow_bed",
+		"lime_bed",
+		"pink_bed",
+		"gray_bed",
+		"light_gray_bed",
+		"cyan_bed",
+		"purple_bed",
+		"blue_bed",
+		"brown_bed",
+		"green_bed",
+		"red_bed",
+		"black_bed"
+  ],
+  "invalid": {
+    "wall_torch": "torch",
+    "redstone_wall_torch": "redstone_torch",
+    "oak_wall_sign": "oak_sign",
+    "spruce_wall_sign": "spruce_sign",
+    "birch_wall_sign": "birch_sign",
+    "jungle_wall_sign": "jungle_sign",
+    "acacia_wall_sign": "acacia_sign",
+    "dark_oak_wall_sign": "dark_oak_sign",
+		"tall_seagrass": "seagrass"
+  },
+  "replace": [
+		"water",
+    "lava",
+    "fire"
+  ]
+}

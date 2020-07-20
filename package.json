@@ -1,0 +1,20 @@
+{
+  "name": "schembot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minecraft-data": "^2.62.1",
+    "mineflayer": "^2.24.0",
+    "mojangson": "^0.2.4",
+    "prismarine-nbt": "^1.3.0",
+    "sprintf-js": "^1.1.2",
+    "vec3": "^0.1.6"
+  }
+}
